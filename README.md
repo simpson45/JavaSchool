@@ -1,2 +1,2 @@
 # JavaSchool
-Java
+Test projects using Java
